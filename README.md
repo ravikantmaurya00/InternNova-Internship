@@ -11,7 +11,7 @@ A 6-week Cybersecurity internship program project, documenting weekly assignment
 | **Internship Domain** | Cybersecurity |
 | **Company** | InternNova |
 | **Program Duration** | 6 Weeks |
-| **Start Date** | 12/11/2026 |
+| **Start Date** | 05/11/2026 |
 
 ## About the Project
 
@@ -74,7 +74,7 @@ For every week:
 
 ## Links
 
-- **Week 1 Google Drive Link:** *[add link here]*
+- **Week 1 Google Drive Link:** *https://drive.google.com/file/d/1YRzFBXGxGzkWVTXc9f6T0MZvZIahiYhd/view?usp=drivesdk*
 - **Week 2 Google Drive Link:** *[add link here]*
 - **Week 3 Google Drive Link:** *[add link here]*
 - **Week 4 Google Drive Link:** *[add link here]*
