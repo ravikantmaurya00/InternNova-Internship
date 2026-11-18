@@ -97,8 +97,8 @@ For every week:
 
 ## Links
 
-- **Week 1 Google Drive Link:** *[add link here]*
-- **Week 2 Google Drive Link:** *[add link here]*
+- **Week 1 Google Drive Link:** *https://drive.google.com/file/d/1YRzFBXGxGzkWVTXc9f6T0MZvZIahiYhd/view?usp=drive_link*
+- **Week 2 Google Drive Link:** *https://drive.google.com/file/d/1BnAQQHhUx4rHsvSIBKIiqvkGImkdC8cj/view?usp=drive_link*
 - **Week 3 Google Drive Link:** *[add link here]*
 - **Week 4 Google Drive Link:** *[add link here]*
 - **Week 5 Google Drive Link:** *[add link here]*
