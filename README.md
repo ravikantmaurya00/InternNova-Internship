@@ -99,11 +99,11 @@ A single case study (an e-commerce platform, with Amazon.in as the reference exa
 `.
 ├── README.md
 ├── Week1/
-│   └── Cyber_Security_Week1_Assignment_Report.pdf
+|    └── Cyber_Security_Week1_Assignment_Report.pdf
 ├── Week2/
-│   └── Cyber_Security_Week2_Assignment_Report.pdf
+|    └── Cyber_Security_Week2_Assignment_Report.pdf
 ├── Week3/
-│   └── Cyber_Security_Week3_Assignment_Report.pdf
+|     └── Cyber_Security_Week3_Assignment_Report.pdf
 ├── Week4/
 ├── Week5/
 └── Week6/
