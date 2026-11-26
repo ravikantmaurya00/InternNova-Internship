@@ -25,7 +25,7 @@ A single case study (an e-commerce platform, with Amazon.in as the reference exa
 |---|---|---|---|---|
 | 1 | Cyber Security Fundamentals & Network Basics | 100 | Completed | `Cyber_Security_Week1_Assignment_Report.pdf` |
 | 2 | Network Basics & Security | 100 | Completed | `Cyber_Security_Week2_Assignment_Report.pdf` |
-| 3 | *To be updated* | - | Pending | - |
+| 3 | Malware, Phishing & Security Awareness | 100 | Completed | `Cyber_Security_Week3_Assignment _Report.pdf` |
 | 4 | *To be updated* | - | Pending | - |
 | 5 | *To be updated* | - | Pending | - |
 | 6 | *To be updated* | - | Pending | - |
@@ -73,9 +73,31 @@ A single case study (an e-commerce platform, with Amazon.in as the reference exa
 - Traced a web request from user to server and back with a flowchart.
 - Listed ten home network security practices and explained three in depth.
 
+## Week 3: Malware, Phishing & Security Awareness
+
+**Objective:** Understand common cyber threats, learn to recognise phishing, and build everyday security awareness.
+
+| Task | Topic | Marks|
+|---|---|---|
+
+| 1 |	Understanding Malware (virus, worm, trojan, ransomware, spyware) | 20 |
+| 2	| Understanding Phishing (how it works, types, warning signs)	| 20 |
+| 3	| Identifying Phishing Messages (two annotated examples)	| 20 |
+| 4	| Malware Prevention (10 practices, 5 explained in detail)	| 15 |
+| 5	| Security Awareness Scenario ("account will be blocked" email)	| 15 |
+| 6	| Cyber Security Awareness Poster	| 10 |
+| | **Total** |	**100** |
+
+**Key outcomes**
+- Compared five malware types by how they spread and what they target.
+- Explained the lifecycle of a phishing attack and its common forms (email, SMS, voice, fake websites).
+- Analysed two harmless sample phishing messages and marked their red flags.
+- Listed ten malware prevention habits and explained five in depth.
+- Worked through a realistic scenario and designed an awareness poster.
+
 ## Repository Structure
 
-```
+`
 .
 ├── README.md
 ├── Week1/
@@ -83,11 +105,11 @@ A single case study (an e-commerce platform, with Amazon.in as the reference exa
 ├── Week2/
 │   └── Cyber_Security_Week2_Assignment_Report.pdf
 ├── Week3/
+│   └── Cyber_Security_Week3_Assignment_Report.pdf
 ├── Week4/
 ├── Week5/
 └── Week6/
-```
-
+`
 ## Submission Guidelines
 
 For every week:
@@ -99,7 +121,7 @@ For every week:
 
 - **Week 1 Google Drive Link:** *https://drive.google.com/file/d/1YRzFBXGxGzkWVTXc9f6T0MZvZIahiYhd/view?usp=drive_link*
 - **Week 2 Google Drive Link:** *https://drive.google.com/file/d/1BnAQQHhUx4rHsvSIBKIiqvkGImkdC8cj/view?usp=drive_link*
-- **Week 3 Google Drive Link:** *[add link here]*
+- **Week 3 Google Drive Link:** *https://drive.google.com/file/d/1p-4drRwlLXZCYPcma9eGfpR2djgMV7v6/view*
 - **Week 4 Google Drive Link:** *[add link here]*
 - **Week 5 Google Drive Link:** *[add link here]*
 - **Week 6 Google Drive Link:** *[add link here]*
