@@ -96,7 +96,7 @@ A single case study (an e-commerce platform, with Amazon.in as the reference exa
 
 ## Repository Structure
 
-`.
+```.
 ├── README.md
 ├── Week1/
 |    └── Cyber_Security_Week1_Assignment_Report.pdf
@@ -107,7 +107,7 @@ A single case study (an e-commerce platform, with Amazon.in as the reference exa
 ├── Week4/
 ├── Week5/
 └── Week6/
-`
+```
 ## Submission Guidelines
 
 For every week:
