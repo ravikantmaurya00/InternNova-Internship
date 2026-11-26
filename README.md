@@ -79,7 +79,6 @@ A single case study (an e-commerce platform, with Amazon.in as the reference exa
 
 | Task | Topic | Marks|
 |---|---|---|
-
 | 1 |	Understanding Malware (virus, worm, trojan, ransomware, spyware) | 20 |
 | 2	| Understanding Phishing (how it works, types, warning signs)	| 20 |
 | 3	| Identifying Phishing Messages (two annotated examples)	| 20 |
